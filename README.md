@@ -9,3 +9,4 @@
 |12.4|[383. 赎金信](https://leetcode-cn.com/problems/ransom-note/)|PASS|[无]|
 |12.5|[372. 超级次方](https://leetcode-cn.com/problems/super-pow/)|FAIL||
 |12.6|[1816. 截断句子](https://leetcode-cn.com/problems/truncate-sentence/)|PASS|无|
+|12.7|[1034. 边界着色](https://leetcode-cn.com/problems/coloring-a-border/)|FAIL|[缺]|
