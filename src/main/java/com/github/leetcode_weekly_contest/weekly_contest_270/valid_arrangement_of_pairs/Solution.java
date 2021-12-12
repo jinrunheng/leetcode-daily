@@ -1,4 +1,4 @@
-package com.github.leetcode_weekly_contest.weekly_context_270.valid_arrangement_of_pairs;
+package com.github.leetcode_weekly_contest.weekly_contest_270.valid_arrangement_of_pairs;
 
 import java.util.*;
 

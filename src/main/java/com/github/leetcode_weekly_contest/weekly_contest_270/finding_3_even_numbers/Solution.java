@@ -1,4 +1,4 @@
-package com.github.leetcode_weekly_contest.weekly_context_270.finding_3_even_numbers;
+package com.github.leetcode_weekly_contest.weekly_contest_270.finding_3_even_numbers;
 
 import java.util.HashSet;
 import java.util.Set;

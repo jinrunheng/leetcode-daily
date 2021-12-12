@@ -1,4 +1,4 @@
-package com.github.leetcode_weekly_contest.weekly_context_270.step_by_step_directions_from_a_binary_tree_node_to_another;
+package com.github.leetcode_weekly_contest.weekly_contest_270.step_by_step_directions_from_a_binary_tree_node_to_another;
 
 class TreeNode {
     int val;

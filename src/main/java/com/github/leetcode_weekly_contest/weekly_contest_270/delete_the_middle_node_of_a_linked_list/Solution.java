@@ -1,4 +1,4 @@
-package com.github.leetcode_weekly_contest.weekly_context_270.delete_the_middle_node_of_a_linked_list;
+package com.github.leetcode_weekly_contest.weekly_contest_270.delete_the_middle_node_of_a_linked_list;
 
 class ListNode {
     int val;
