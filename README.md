@@ -12,3 +12,4 @@
 |12.7|[1034. 边界着色](https://leetcode-cn.com/problems/coloring-a-border/)|FAIL|[缺]|
 |12.9|[794. 有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)|PASS|[题解](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/solution/ti-hen-jian-dan-guan-jian-shi-xie-chu-ne-yhl0/)|
 |12.10|[748. 最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/)|PASS|[无]|
+|12.13|[807. 保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/)|PASS|[无]|
