@@ -1,15 +1,6 @@
 ### LeetCode 周赛题解
-待续...
-### 2021.12
-|日期|题目链接|状态|题解|
-|---|---|---|---|
-|12.1|[1446. 连续字符](https://leetcode-cn.com/problems/consecutive-characters/)|PASS|[无]|
-|12.2|[506. 相对名次](https://leetcode-cn.com/problems/relative-ranks/)|PASS|[无]|
-|12.3|[1005. K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/)|PASS|[无]|
-|12.4|[383. 赎金信](https://leetcode-cn.com/problems/ransom-note/)|PASS|[无]|
-|12.5|[372. 超级次方](https://leetcode-cn.com/problems/super-pow/)|FAIL||
-|12.6|[1816. 截断句子](https://leetcode-cn.com/problems/truncate-sentence/)|PASS|[无]|
-|12.7|[1034. 边界着色](https://leetcode-cn.com/problems/coloring-a-border/)|FAIL|[缺]|
-|12.9|[794. 有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)|PASS|[题解](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/solution/ti-hen-jian-dan-guan-jian-shi-xie-chu-ne-yhl0/)|
-|12.10|[748. 最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/)|PASS|[无]|
-|12.13|[807. 保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/)|PASS|[无]|
+|场次|题目|题解|
+|---|---|---|
+|第 270 场|[2094. 找出 3 位偶数](https://leetcode-cn.com/problems/finding-3-digit-even-numbers/)|[题解](https://mp.weixin.qq.com/s?__biz=MzU2NzAzMjQyOA==&mid=2247484555&idx=1&sn=737719b257c05bdcd59e0b525a452121&chksm=fca22b88cbd5a29ef64dadea063f279fd97b7a351105776c97991355ecd8480f2ba82366716c&token=2098943954&lang=zh_CN#rd)|
+|第 270 场|||
+... 
