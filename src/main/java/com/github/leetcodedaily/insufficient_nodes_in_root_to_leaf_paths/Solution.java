@@ -31,7 +31,7 @@ public class Solution {
         }
         limit -= root.val;
         if (root.left == null && root.right == null) {
-            return limit >= 0 ? root : null;
+            return limit <= 0 ? root : null;
         }
         if (root.left != null) {
             root.left = sufficientSubset(root.left, limit);
